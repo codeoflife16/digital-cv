@@ -13,7 +13,7 @@
 	<div class="full">
 		<div class="left">
 			<div class="image">
-				<img src="priyanka1.jpeg"
+				<img src="abc.jpeg"
 					style="width:100px;height:100px;">
 			</div>
 			<div class="Contact">
